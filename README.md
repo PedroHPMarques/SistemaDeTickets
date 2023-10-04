@@ -1,8 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Projeto Sistema De Tickets
+## CodeJr,2023.3
+
+
+| **Sumário** |
+|-------------|
+| [Desenvolvedores](#Desenvolvedores) |
+| [Como executar o projeto inicial](#Getting-Started) |
+| [Git](#Git-tutorial) |
+
+
+#### Desenvolvedores:
+-> Rhara
+-> Sarah Ingrid
+
+#### Gerente
+-> Pedro Marques
+
+#### Links Úteis:
+-> [Trello](https://trello.com/b/TLtXsHtk/sistema-de-tickets)
+-> [Figma](#)
+
+
 
 ## Getting Started
 
-First, run the development server:
+#### Instalação yarn
+-> yarn install
+
+#### First, run the development server:
 
 ```bash
 npm run dev
@@ -13,24 +38,42 @@ pnpm dev
 # or
 bun dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Git Tutorial
 
-## Learn More
+### Rotina
 
-To learn more about Next.js, take a look at the following resources:
+* Adicione as alterações feitas: `git add .`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Cheque em qual branch você está e quais alterações foram adicionadas: `git status`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Dê um commit com uma mensagem especificando as alterações realizadas: `git commit -m "mensagem especificando o que foi feito"`
 
-## Deploy on Vercel
+* Envie o commit feito para sua branch: `git push origin suabranch`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Quando estiver tudo pronto e Revisado
+
+* Volte para a main: `git checkout main`
+
+* Atualize a main: `git pull`
+
+* Volte para a sua branch: `git checkout nomedabranch`
+
+* Mescle a main com a sua branch : `git merge main`
+
+* Corrija os possíveis conflitos
+
+* Confirme o merge: `git push origin suabranch`
+
+* Volte para a main: `git checkout main`
+
+* Mescle a main com as alterações enviadas para sua branch: `git merge suabranch`
+
+* Confirme o merge: `git push origin main`
+
+
+

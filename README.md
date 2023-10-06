@@ -12,6 +12,7 @@
 #### Desenvolvedores:
 -> Rhara
 -> Sarah Ingrid
+-> Leandro Alvares
 
 #### Gerente
 -> Pedro Marques

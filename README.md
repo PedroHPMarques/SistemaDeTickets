@@ -10,7 +10,7 @@
 
 
 #### Desenvolvedores:
--> Rhara
+-> Rhara Ianna
 -> Sarah Ingrid
 -> Leandro Alvares
 
@@ -19,7 +19,7 @@
 
 #### Links Úteis:
 -> [Trello](https://trello.com/b/TLtXsHtk/sistema-de-tickets)
--> [Figma](#)
+-> [Figma](https://www.figma.com/file/CFlaVvSSEtohdMDoQVK6pS/Alta-fidelidade---Ticket-Sistema-EJ?type=design&node-id=0-1&mode=design)
 
 
 
